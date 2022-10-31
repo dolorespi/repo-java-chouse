@@ -251,5 +251,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 });
 
-pago.addEventListener("click", window.location.href="payment.html");
+
 

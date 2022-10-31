@@ -1,0 +1,28 @@
+{
+  "name": "house",
+  "version": "1.0.0",
+  "description": "a shop where you can find cozy stuff for your home",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolorespi/repo-java-chouse.git"
+  },
+  "keywords": [
+    "cozy",
+    "house",
+    "deco",
+    "decoration"
+  ],
+  "author": "Dolores Piñeyro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolorespi/repo-java-chouse/issues"
+  },
+  "homepage": "https://github.com/dolorespi/repo-java-chouse#readme",
+  "dependencies": {
+    "sweetalert": "^2.1.2"
+  }
+}

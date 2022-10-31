@@ -80,7 +80,23 @@
       letter-spacing: 2px;
       opacity: .8;
   }
-  
+
+  .goBack {
+    width: 100%;
+    background:var(--primaryColor);
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 20px;
+    color:#fff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .2s linear;
+  }
+  .goBack:hover{
+    letter-spacing: 2px;
+    opacity: .8;
+  }
+
   .container .card-container{
       margin-bottom: -150px;
       position: relative;
